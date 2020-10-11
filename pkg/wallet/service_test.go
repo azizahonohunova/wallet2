@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ToirovSadi/wallet/pkg/types"
+	"github.com/azizahonohunova/wallet/pkg/types"
 )
 
 type testService struct {
